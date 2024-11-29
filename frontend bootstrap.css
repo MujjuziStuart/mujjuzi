@@ -1,0 +1,108 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color:rgb(7, 7, 7);
+        }
+        
+        .bg{
+            background-color: rgb(97, 5, 5);
+        }
+
+        .font{
+            color: rgb(228, 219, 219);
+            font-size: 25px;
+            font-weight: 100px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            margin-left: 80px;
+        }
+        .masters{
+            color: #f60;
+            margin-left: -0px;
+        }
+
+        .lists a{
+            margin-right: 40px;
+            margin-top: 5px;
+            color: rgb(228, 219, 219);
+        }
+        .list a:hover{
+            color: white;
+        }
+
+        .join-now {
+            background-color: #f60;
+            color: #fff;
+            border: none;
+            padding: 0px 8px;
+            border-radius: 100px;
+            margin-left: 15px;
+            width: 120px;
+        }
+        .join-now:hover {
+            background-color: rgb(27, 26, 26);
+        }
+
+        .log{
+            color: rgb(228, 219, 219);
+            text-decoration: none;
+            margin-top: 7px;
+            margin-left: 0px;
+            display: flex;
+            list-style-type: none;
+        }
+        .log:hover{
+            color: white;
+        }
+
+        .h1{
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 35px;
+            font-weight: 700;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .login-form {
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 20px;
+            margin-top: 100px;
+            color: white;
+        }
+        .login-form h1 {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .login-form .form-group {
+            margin-bottom: 15px;
+        }
+        .btn {
+            width: 100%;
+            background-color: rgb(194, 83, 10);
+            border-color:rgb(194, 83, 10) ;
+            color: #fff;
+            margin-top: 20px;
+        }
+        .btn:hover {
+            background-color: #f60;
+            
+        }
+        .options {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 14px;
+        }
+
+        .Forgot{
+            color: #f60;
+        }
+        .Forgot:hover{
+            color:rgb(194, 83, 10) ;
+        }
+
+        i{
+            color: rgb(228, 219, 219);
+            margin-top: 15px;
+            margin-left: 200px;
+        }

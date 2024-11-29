@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(138, 171, 174);
+    align-content: center;
+    margin-left: 48%;
+}
+
+ h1,h2{
+    font-size: 20px;
+    color: blueviolet;
+    border-color: blue;
+ }
+.paragraph1{
+    background-color: rgb(236, 16, 31);
+    color: white;
+}
+.paragraph2{
+    color: green;
+}
+
+.circleshape{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
